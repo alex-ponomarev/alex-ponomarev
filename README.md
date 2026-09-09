@@ -48,7 +48,7 @@ The service handles product pricing, coupons, country-specific taxes and multipl
 
 **Tech:** PHP · Symfony · Doctrine · PostgreSQL · Docker · PHPUnit
 
-[View Symfony Payment Service →](/alex-ponomarev/symfony-payment-service)
+[View Symfony Payment Service →](https://github.com/alex-ponomarev/symfony-payment-service)
 
 ---
 
