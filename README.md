@@ -8,12 +8,12 @@ I build backend services, REST APIs and integrations, work with business-critica
 
 ## Core stack
 
-**Backend:** PHP 8+, Symfony, Laravel
-**Databases:** PostgreSQL, MySQL, Redis
-**Messaging:** Kafka, RabbitMQ
-**Quality:** PHPUnit, PHPStan, automated testing
-**Infrastructure:** Docker, CI/CD
-**Additional experience:** Go, Java / Spring
+* Backend: PHP 8+, Symfony, Laravel
+* Databases: PostgreSQL, MySQL, Redis
+* Messaging: Kafka, RabbitMQ
+* Quality: PHPUnit, PHPStan, automated testing
+* Infrastructure: Docker, CI/CD
+* Additional experience: Go, Java / Spring
 
 ## What I work with
 
